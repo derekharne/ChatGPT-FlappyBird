@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "png-transparent-flappy-bird-pixel-art-minecraft-xbox-360-flappy-hipster-bird-text-rectangle-logo-thumbnail.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
